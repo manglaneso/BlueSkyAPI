@@ -1,6 +1,6 @@
 # BlueSkyAPI
 
-Mastodon API integration for Google Apps Script
+BlueSky API integration for Google Apps Script
 
 ### DISCLAIMER
 
