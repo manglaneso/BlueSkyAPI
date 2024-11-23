@@ -2,7 +2,7 @@
 
 Mastodon API integration for Google Apps Script
 
-### DISLAIMER
+### DISCLAIMER
 
 This is a very early version of the library with a little number of the methods listed in the [AT Protocol XRPC API](https://docs.bsky.app/docs/api/at-protocol-xrpc-api) implemented. Contributions are appreciated!
 
