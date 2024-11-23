@@ -42,3 +42,7 @@ let upload = bluesky.listRecords();
 // Delete a record
 let deletedRecord = bluesky.deleteRecord(collection, rkey);
 ```
+
+### Example of use
+
+You can find an example of use in the [following repo](https://github.com/manglaneso/oraleputosbot/blob/main/src/BlueSkyTriggerService.js).
